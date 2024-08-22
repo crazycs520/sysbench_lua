@@ -1,8 +1,8 @@
 #!/bin/bash
 
-HOST=10.202.15.229
-PORT=2883
-USER=root@test
+HOST=10.202.15.221
+PORT=4000
+USER=root
 PASSWORD=''
 DB=test
 
